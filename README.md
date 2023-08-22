@@ -1,9 +1,9 @@
 # transfer.zip-aio-zh
 
-**For English users, please go to[transfer.zip-aio](https://github.com/niliovo/transfer.zip-aio)**
-
 - [Github](https://github.com/niliovo/transfer.zip-aio-zh)
 - [Docker Hub](https://hub.docker.com/r/niliaerith/transfer-zip-aio-zh)
+
+## For English users, please go to [transfer.zip-aio](https://github.com/niliovo/transfer.zip-aio)
 
 # 此项目基于下列项目，将 transfer.zip-web 前端与后端打包成一个Docker镜像
 
