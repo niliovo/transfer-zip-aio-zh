@@ -152,4 +152,5 @@ nginx -g 'daemon off;' &
 
 wait" > web-server/run-server
 cp web-server/run-server /usr/local/bin
+chmod +x /usr/local/bin/run-server
 sed -i "s|http://signaling-server:8001|http://0.0.0.0:8001|g" /etc/nginx/conf.d/nginx.conf
